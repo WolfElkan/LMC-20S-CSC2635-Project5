@@ -29,20 +29,20 @@ Be able to write a program in Java that implements **Advanced user interface**-b
 ### Description
 
 1. Implement a GUI program that allows two players to play **tic-tac-toe**.
-  1. Draw the game **3x3 grid**
-  1. Indicate of whose **turn** it is (**X or O**)
-  1. Upon the next **click**
-    * **Check** that the mouse falls into an **empty** location
-    * **Fill** the location with the **mark (X or O)** of the current player
-    * If the game is **won**, indicate the winner
-    * If **tie**, indicate that the game is over with a tie.
-    * Otherwise give the other player a turn 
-  1. Supply a reset button for starting over
+    1. Draw the game **3x3 grid**
+    1. Indicate of whose **turn** it is (**X or O**)
+    1. Upon the next **click**
+        * **Check** that the mouse falls into an **empty** location
+        * **Fill** the location with the **mark (X or O)** of the current player
+        * If the game is **won**, indicate the winner
+        * If **tie**, indicate that the game is over with a tie.
+        * Otherwise give the other player a turn 
+    1. Supply a reset button for starting over
 1. Student proposed project. Recommended if student has learned this material before and needs more of a challenge. **Conditions:**
-  1. Project was not implemented for a prior class (or for any other reason). 
-  1. It is related to the current topic 
-  1. It is of greater or equal complexity to the other options.
-  1. Student gets the **instructor's approval**
+    1. Project was not implemented for a prior class (or for any other reason). 
+    1. It is related to the current topic 
+    1. It is of greater or equal complexity to the other options.
+    1. Student gets the **instructor's approval**
 
 [*Return to Instructions*](#instructions)
 
