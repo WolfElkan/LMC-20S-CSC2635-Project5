@@ -1,4 +1,4 @@
-<style type="text/css">
+<style>
     ol li ol { list-style-type: lower-alpha; }
 </style>
 
