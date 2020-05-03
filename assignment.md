@@ -1,7 +1,3 @@
-<style>
-    ol li ol { list-style-type: lower-alpha; }
-</style>
-
 # Project 5 – Advanced User Interfaces
 *CSC2635 Computer Science II*
 
